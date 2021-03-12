@@ -13,4 +13,4 @@ http-server
 The output of the command will tell you the server address/port (e.g. localhost:8080).
 
 # api instructions
-The api is stored in the api folder. It was developed in ASP.NET (.NET 5.0). It was published for a win-x64 runtime. Run the executable and the server should start at the specified server address (e.g. localhost:5000).
+The api is stored in the api folder. It was developed in ASP.NET (.NET 5.0). It was published for a win-x64 runtime. Run the executable (WebApplication2.exe) and the server should start at the specified server address (e.g. localhost:5000).
