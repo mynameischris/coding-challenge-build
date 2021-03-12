@@ -24,3 +24,5 @@ To view the spa, visit the address/port specified by the http-server command. Th
 Click the add button to retrieve an activity from boredapi.com, it should then be displayed in the table. You should be able to add an infinite number of activities.
 
 Click the delete all button to delete all of the activities from the in-memory database of the api server.
+
+As long as the api server is running, the activities table will persist through page refreshes.
