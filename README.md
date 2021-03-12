@@ -26,3 +26,6 @@ Click the add button to retrieve an activity from boredapi.com, it should then b
 Click the delete all button to delete all of the activities from the in-memory database of the api server.
 
 As long as the api server is running, the activities table will persist through page refreshes.
+
+# Notes
+In the coding challenge specifications, the optional step says, "Extend the solution to allow users to delete all items containing user input text" though user input text was never part of the requirements; thus I've added a delete all button to delete all of the activities. If I were to add the functionality for users to add their own activities, I would just add a form with a text input and a submit button.
